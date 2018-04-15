@@ -1,0 +1,22 @@
+[
+    {
+       "name":"faina",
+       "email":"faina@gmail.com",
+       "appartment":"17",
+       "isCommitteeMember":"0",
+       "pwd":"111"
+    },{
+        "name":"vasya",
+       "email":"vasya@gmail.com",
+       "appartment":"17",
+       "isCommitteeMember":"0",
+       "pwd":"222"
+    },{
+       "name":"jhon",
+       "email":"jhon@gmail.com",
+       "appartment":"17",
+       "isCommitteeMember":"0",
+       "pwd":"333"
+
+    }
+]
